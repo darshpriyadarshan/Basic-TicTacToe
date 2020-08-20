@@ -1,0 +1,39 @@
+td:nth-of-type(1){
+    border-right: 1px solid black;
+}
+td:nth-of-type(2){
+    border-right: 1px solid black;
+}
+td{
+    width: 100px;
+    height: 100px;
+}
+.vertical
+{
+    border-bottom: 1px solid black;
+	color: rgba(0,0,0,0);
+	text-align: center;
+	font-size: 50px;
+	background: white;
+}
+table{
+    margin: 100px auto auto auto
+}
+.square
+{
+	color: rgba(0,0,0,0);
+	text-align: center;
+	font-size: 50px;
+	background: white
+}
+
+#h1
+{
+	text-align: center;
+	font-size:50px;
+}
+
+#rand
+{
+	font-size: 30px;
+}
